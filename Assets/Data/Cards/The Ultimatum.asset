@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b456c261b49b7124e9d6c3f99cd24367, type: 3}
+  m_Name: The Ultimatum
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: THE ULTIMATUM
+  <Description>k__BackingField: KILL THEM ALL
+  <Cost>k__BackingField: 5
+  <Image>k__BackingField: {fileID: 21300000, guid: 58ca12616b9d1424fb4dccf878e2359a, type: 3}
+  <Labels>k__BackingField: 00000000

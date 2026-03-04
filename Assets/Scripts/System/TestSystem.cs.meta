@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7722652493603aa49b2697fecbf26cbc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - handView: {instanceID: 0}
+  - cardSpawnPoint: {instanceID: 0}
+  - cardData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
